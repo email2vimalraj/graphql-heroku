@@ -1,0 +1,11 @@
+{
+  "presets": [
+      "env",
+      "stage-3"
+  ],
+  "plugins": [
+
+  ],
+  "sourceMaps": true,
+  "retainLines": true
+}

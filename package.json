@@ -1,0 +1,27 @@
+{
+  "name": "graphql-heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VimalRaj Selvam",
+  "license": "MIT",
+  "engines": {
+    "node": "9.4.0"
+  },
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^1.3.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.12.3",
+    "graphql-tools": "^2.20.0",
+    "mongoose": "^5.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
