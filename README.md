@@ -2,7 +2,7 @@
 This repo contains a basic Mongo Express GraphQL Node (MEGN) example code.
 
 ## Pre-requisites
-- NodeJS minimum 9.4.0
+- NodeJS
 - Mongodb and server should be running if local
 
 ## Setup

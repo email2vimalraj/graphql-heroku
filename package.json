@@ -4,9 +4,6 @@
   "main": "index.js",
   "author": "VimalRaj Selvam",
   "license": "MIT",
-  "engines": {
-    "node": "9.4.0"
-  },
   "scripts": {
     "start": "babel-node index.js"
   },
